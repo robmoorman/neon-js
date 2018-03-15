@@ -21,6 +21,7 @@ export namespace CONTRACTS {
 export namespace DEFAULT_RPC {
   export const MAIN: string
   export const TEST: string
+  export const PRIV: string
 }
 
 export const DEFAULT_REQ: {
@@ -54,6 +55,7 @@ export const DEFAULT_ACCOUNT_CONTRACT: {
 export namespace NEO_NETWORK {
   export const MAIN: string
   export const TEST: string
+  export const PRIV: string
 }
 
 export const NEP_HEADER: string
